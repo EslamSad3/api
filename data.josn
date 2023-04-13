@@ -5,7 +5,7 @@
 		"price": 109.95,
 		"description": "Your perfect pack for everyday",
 		"category": "men's clothing",
-		"image": "/imgs/png/1-PhotoRoom.png-PhotoRoom.png",
+		"image": "/1-PhotoRoom.png-PhotoRoom.png",
 		"rating": {
 			"rate": 3.9,
 			"count": 120
